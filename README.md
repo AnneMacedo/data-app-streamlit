@@ -1,6 +1,6 @@
-##**Criação de aplicativos Data Web com linguagem Python e biblioteca StreamLit**
+**Criação de aplicativos Data Web com linguagem Python e biblioteca StreamLit**
 
-###**Contextualização**
+**Contextualização**
 
 Às vezes, ao finalizarmos um projeto de Data Science e Machine Learning, podemos nos deparar com a seguinte questão: como podemos compartilhar nosso projeto com usuários? Disponibilizar somente o código-fonte puro pode parecer ser uma saída fácil, mas nem sempre é o ideal ou com melhor aplicação, principalmente na hora de criar um portfólio ou apresentar esse estudo de forma mais profissional.
 
@@ -14,7 +14,7 @@ Agora que você já entende quando usar o Streamlit, iremos ver como ele pode ag
 
 Veja o artigo completo no arquivo: **app-streamlit.pdf**.
 
-###**Documentações:**
+**Documentações:**
 
 - [Documentação StreamLit](https://docs.streamlit.io/en/stable/)
 - [Criando uma aplicação de dados com Streamlit](https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html)
