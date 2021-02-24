@@ -12,7 +12,7 @@ O [Streamlit](https://www.streamlit.io/) é uma biblioteca Python de uso gratuit
 
 Agora que você já entende quando usar o Streamlit, iremos ver como ele pode agilizar a criação da sua aplicação!
 
-Veja o artigo completo no arquivo: **app-streamlit.pdf**.
+[Veja o passo-a-passo completo aqui!](https://www.linkedin.com/pulse/cria%25C3%25A7%25C3%25A3o-de-aplicativos-data-web-com-linguagem-python-e-c-macedo).
 
 **Documentações:**
 
